@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scifuentes78
 - 👀 I’m interested in learning about everything.
-- 🌱 I’m currently learning in the ibm maraton.
-- 💞️ I’m looking to collaborate on green projects.
+- 🌱 I’m looking to collaborate on green projects.
+- 💞️ Finish in the Top 100 in the ibm maraton 2021.
 
 
 <!---
